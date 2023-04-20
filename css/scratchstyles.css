@@ -1,0 +1,97 @@
+.NameHeader{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    font-size: 50px;
+}
+.h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.lihead{
+font-size: 25px;
+}
+.li{
+font-size: 20px;
+}
+body{
+    background-color: rgb(219, 217, 217);
+    border: 12px solid silver;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.ul{
+    text-align: left;
+}
+ol{
+    text-align: left;
+}
+.iframe{
+    align-content: left;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  #sideNav .navbar-brand .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
+  .rounded-circle {
+    border-radius: 50% !important;
+  }
+  .mx-auto {
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+  .mb-2 {
+    margin-bottom: 0.5rem !important;
+  }
+  .common{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+nav{
+    background-color: silver;
+    padding: 2px;
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
+
+.licolor{
+    font-style: italic;
+    font-size: 20px;
+    color: cornflowerblue;
+}
